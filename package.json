@@ -1,0 +1,19 @@
+{
+  "name": "snoop-private-ssh-key",
+  "version": "1.0.0",
+  "description": "Used to test snoop private ssh keys work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeNow/snoop-private-ssh-key.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeNow/snoop-private-ssh-key/issues"
+  },
+  "homepage": "https://github.com/CodeNow/snoop-private-ssh-key#readme"
+}
